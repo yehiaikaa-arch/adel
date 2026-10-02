@@ -1,0 +1,6 @@
+{
+  "name": "Adel & Samar Wedding Invitation",
+  "description": "دعوة زفاف فاخرة وتفاعلية للاحتفال بعقد قران وزفاف عادل وسمر يوم الجمعة 23 أكتوبر 2026 في مسجد المشير طنطاوي - قاعة الروضة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
